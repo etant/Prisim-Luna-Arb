@@ -1,0 +1,16 @@
+{
+  "name": "prism",
+  "version": "1.0.0",
+  "description": "",
+  "main": "luna.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@terra-money/terra.js": "^3.0.11",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
